@@ -1,0 +1,54 @@
+FREDDO ESPRESSO ΣΚΕΤΟ,1.7
+FREDDO ESPRESSO ΜΕΤΡΙΟ,1.7
+FREDDO ESPRESSO ΓΛΥΚΟ,1.7
+FREDDO CAPPUCCINO ΣΚΕΤΟ,1.9
+FREDDO CAPPUCCINO ΜΕΤΡΙΟ,1.9
+FREDDO CAPPUCCINO ΓΛΥΚΟ,1.9
+ΜΟΝΟ ESPRESSO ΣΚΕΤΟ,1.3
+ΜΟΝΟ ESPRESSO ΜΕΤΡΙΟ,1.1
+ΜΟΝΟ ESPRESSO ΓΛΥΚΟ,1.1
+ΔΙΠΛΟ ESPRESSO ΣΚΕΤΟ,1.3
+ΔΙΠΛΟ ESPRESSO ΜΕΤΡΙΟ,1.3
+ΔΙΠΛΟ ESPRESSO ΓΛΥΚΟ,1.3
+RISTRETTO ΣΚΕΤΟ,1.0
+RISTRETTO ΜΕΤΡΙΟ,1.0
+RISTRETTO ΓΛΥΚΟ,1.0
+ΜΟΝΟ LUNGO ΣΚΕΤΟ,1.1
+ΜΟΝΟ LUNGO ΜΕΤΡΙΟ,1.1
+ΜΟΝΟ LUNGO ΓΛΥΚΟ,1.1
+ΔΙΠΛΟ LUNGO ΣΚΕΤΟ,1.3
+ΔΙΠΛΟ LUNGO ΜΕΤΡΙΟ,1.3
+ΔΙΠΛΟ LUNGO ΓΛΥΚΟ,1.3
+ΜΟΝΟ AMERICANO ΣΚΕΤΟ,1.5
+ΜΟΝΟ AMERICANO ΜΕΤΡΙΟ,1.5
+ΜΟΝΟ AMERICANO ΓΛΥΚΟ,1.5
+ΔΙΠΛΟ AMERICANO ΣΚΕΤΟ,1.7
+ΔΙΠΛΟ AMERICANO ΜΕΤΡΙΟ,1.7
+ΔΙΠΛΟ AMERICANO ΓΛΥΚΟ,1.7
+ΜΟΝΟ LATTE ΣΚΕΤΟ,1.8
+ΜΟΝΟ LATTE ΜΕΤΡΙΟ,1.8
+ΜΟΝΟ LATTE ΓΛΥΚΟ,1.8
+ΔΙΠΛΟ LATTE ΣΚΕΤΟ,2.0
+ΔΙΠΛΟ LATTE ΜΕΤΡΙΟ,2.0
+ΔΙΠΛΟ LATTE ΓΛΥΚΟ,2.0
+ΜΟΝΟ CAPPUCCINO ΣΚΕΤΟ,1.8
+ΜΟΝΟ CAPPUCCINO ΜΕΤΡΙΟ,1.8
+ΜΟΝΟ CAPPUCCINO ΓΛΥΚΟ,1.8
+ΔΙΠΛΟ CAPPUCCINO ΣΚΕΤΟ,2.0
+ΔΙΠΛΟ CAPPUCCINO ΜΕΤΡΙΟ,2.0
+ΔΙΠΛΟ CAPPUCCINO ΓΛΥΚΟ,2.0
+ΜΟΝΟ ΕΛΛΗΝΙΚΟ ΣΚΕΤΟ,1.0
+ΜΟΝΟ ΕΛΛΗΝΙΚΟ ΜΕΤΡΙΟ,1.0
+ΜΟΝΟ ΕΛΛΗΝΙΚΟ ΓΛΥΚΟ,1.0
+ΔΙΠΛΟ ΕΛΛΗΝΙΚΟ ΣΚΕΤΟ,1.3
+ΔΙΠΛΟ ΕΛΛΗΝΙΚΟ ΜΕΤΡΙΟ,1.3
+ΔΙΠΛΟ ΕΛΛΗΝΙΚΟ ΓΛΥΚΟ,1.3
+ΦΡΑΠΕ ΣΚΕΤΟ,1.0
+ΦΡΑΠΕ ΜΕΤΡΙΟ,1.0
+ΦΡΑΠΕ ΓΛΥΚΟ,1.0
+NESCAFE ΣΚΕΤΟ,1.0
+NESCAFE ΜΕΤΡΙΟ,1.0
+NESCAFE ΓΛΥΚΟ,1.0
+ΦΙΛΤΡΟΥ ΣΚΕΤΟ,1.0
+ΦΙΛΤΡΟΥ ΜΕΤΡΙΟ,1.0
+ΦΙΛΤΡΟΥ ΓΛΥΚΟ,1.0
